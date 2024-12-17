@@ -4,9 +4,8 @@
 @charset "utf-8";
 
 @import 'reset', 'container', 'float', 'header', 'footer', 'page', 'post-list',
-  'post', 'highlighter', 'mobile', 'printer', 'task-list', 'mermaid';
+  'post', 'mobile', 'printer', 'task-list', 'mermaid', 'highlighter';
 
-/* 添加全局样式 */
 html {
   scrollbar-gutter: stable;
 }

@@ -11,8 +11,20 @@
 
 .post-content p {
   line-height: 20px;
+  color: black;
+  font-weight: 500;
+  font-family: "Helvetica Now";
+  font-size: 17px;
 }
 
+.post-content a {
+    color: #50C878;
+    font-weight: 600;
+}
+
+.post-content a:hover {
+    text-decoration: underline;
+}
 .post-content img {
   display: block;
   margin: 10px auto;
