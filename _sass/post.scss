@@ -4,17 +4,22 @@
   text-align: center;
 }
 
+.toc {
+    font-size: 22px;
+    line-height: 35px;
+}
+
 .post-content {
   // scrollable for mobile devices
   overflow-x: scroll;
 }
 
 .post-content p {
-  line-height: 20px;
-  color: black;
-  font-weight: 500;
-  font-family: "Helvetica Now";
-  font-size: 17px;
+  line-height: 35px;
+  color: #111111;
+  font-weight: 400;
+  font-family: "trebuchet";
+  font-size: 22px;
 }
 
 .post-content a {
